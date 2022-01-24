@@ -1,0 +1,39 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-01-24T11:36:30.704Z,-20.9105,-175.3289,10,4.7,mb,,86,6.997,0.4,us,us7000gejk,2022-01-24T15:22:32.630Z,"28 km NNW of Nuku‘alofa, Tonga",earthquake,12.4,1.9,0.059,88,reviewed,us,us
+2022-01-24T02:03:14.727Z,-20.7667,-175.5363,10,4.8,mb,,96,6.76,1.15,us,us7000gegr,2022-01-24T02:36:40.040Z,"53 km NW of Nuku‘alofa, Tonga",earthquake,13.6,1.9,0.077,52,reviewed,us,us
+2022-01-23T12:24:03.937Z,-20.8142,-175.5069,10,4.6,mb,,116,6.805,0.4,us,us7000gedn,2022-01-23T12:51:18.040Z,"47 km NW of Nuku‘alofa, Tonga",earthquake,11.2,1.9,0.066,70,reviewed,us,us
+2022-01-22T21:21:26.954Z,-20.4982,-175.3714,10,4.8,mb,,107,6.792,0.45,us,us7000gea6,2022-01-23T05:37:05.040Z,"73 km NNW of Nuku‘alofa, Tonga",earthquake,14.6,1.9,0.143,15,reviewed,us,us
+2022-01-22T11:09:33.695Z,-20.6585,-175.4862,10,4.6,mb,,124,6.757,0.42,us,us7000gea1,2022-01-22T22:16:17.040Z,"60 km NNW of Nuku‘alofa, Tonga",earthquake,14,1.9,0.112,24,reviewed,us,us
+2022-01-22T05:12:33.846Z,-20.7797,-175.3928,10,4.7,mb,,124,6.887,0.65,us,us7000ge5z,2022-01-22T05:50:31.040Z,"44 km NNW of Nuku‘alofa, Tonga",earthquake,9.2,1.9,0.207,7,reviewed,us,us
+2022-01-21T19:50:43.577Z,-20.6839,-175.3949,10,4.8,mb,,148,6.846,0.81,us,us7000ge1p,2022-01-21T22:46:02.040Z,"54 km NNW of Nuku‘alofa, Tonga",earthquake,5.9,1.9,0.121,21,reviewed,us,us
+2022-01-21T13:22:33.351Z,-20.7823,-175.3815,10,4.8,mb,,86,6.898,0.39,us,us7000ge1f,2022-01-21T22:32:05.040Z,"43 km NNW of Nuku‘alofa, Tonga",earthquake,6.3,1.9,0.149,14,reviewed,us,us
+2022-01-21T05:45:58.017Z,-20.7481,-175.3195,10,4.7,mb,,123,6.936,0.57,us,us7000gdrz,2022-01-21T06:15:00.040Z,"45 km NNW of Nuku‘alofa, Tonga",earthquake,13.8,1.7,0.147,14,reviewed,us,us
+2022-01-20T23:33:52.506Z,-20.4834,-175.4169,10,4.7,mb,,100,6.747,0.71,us,us7000gdpt,2022-01-21T00:36:19.040Z,"76 km NNW of Nuku‘alofa, Tonga",earthquake,16,1.9,0.115,23,reviewed,us,us
+2022-01-20T20:05:30.967Z,-20.3512,-175.3802,10,4.8,mb,,205,6.73,0.84,us,us7000gdmq,2022-01-20T20:24:25.040Z,"89 km NNW of Nuku‘alofa, Tonga",earthquake,19.4,2,0.062,82,reviewed,us,us
+2022-01-20T17:10:03.615Z,-20.4535,-175.2501,10,4.8,mb,,124,6.881,0.73,us,us7000gdpe,2022-01-21T06:52:11.040Z,"76 km N of Nuku‘alofa, Tonga",earthquake,15,1.4,0.085,47,reviewed,us,us
+2022-01-20T08:29:43.678Z,-20.8171,-175.5203,10,4.6,mb,,124,6.795,0.56,us,us7000gdqc,2022-01-21T02:02:04.040Z,"48 km NW of Nuku‘alofa, Tonga",earthquake,6.9,1.9,0.122,20,reviewed,us,us
+2022-01-20T03:06:12.570Z,-20.7028,-175.3846,10,4.6,mb,,129,6.862,0.6,us,us7000gdqg,2022-01-21T02:16:56.040Z,"51 km NNW of Nuku‘alofa, Tonga",earthquake,15.9,1.9,0.182,9,reviewed,us,us
+2022-01-19T23:23:49.840Z,-20.8485,-175.4097,10,5,mb,,134,6.902,1.28,us,us7000gdcz,2022-01-21T02:35:05.040Z,"38 km NW of Nuku‘alofa, Tonga",earthquake,9.8,1.8,0.094,36,reviewed,us,us
+2022-01-19T20:18:10.396Z,-20.5931,-175.4137,10,4.6,mb,,124,6.793,0.68,us,us7000gdqq,2022-01-21T03:05:00.040Z,"64 km NNW of Nuku‘alofa, Tonga",earthquake,7.5,1.9,0.142,15,reviewed,us,us
+2022-01-19T18:22:17.431Z,-20.7456,-175.436,10,4.8,mb,,124,6.836,0.32,us,us7000gdqu,2022-01-21T03:28:07.040Z,"49 km NNW of Nuku‘alofa, Tonga",earthquake,7,1.9,0.138,16,reviewed,us,us
+2022-01-19T14:38:39.099Z,-20.5917,-175.3746,10,4.8,mb,,136,6.826,0.98,us,us7000ge5m,2022-01-22T05:23:07.040Z,"63 km NNW of Nuku‘alofa, Tonga",earthquake,7.3,1.9,0.135,17,reviewed,us,us
+2022-01-19T11:37:50.073Z,-20.564,-175.3449,10,4.6,mb,,83,6.762,0.44,us,us7000gdqy,2022-01-21T21:23:55.040Z,"65 km NNW of Nuku‘alofa, Tonga",earthquake,11.4,1.8,0.102,37,reviewed,us,us
+2022-01-19T07:48:56.979Z,-20.5827,-175.3163,10,4.8,mb,,170,6.873,0.56,us,us7000gdp8,2022-01-20T23:07:45.040Z,"62 km N of Nuku‘alofa, Tonga",earthquake,6.5,1.9,0.085,47,reviewed,us,us
+2022-01-19T05:34:39.586Z,-20.6282,-175.6985,10,4.6,mb,,129,6.564,1.12,us,us7000gdzh,2022-01-21T20:10:22.040Z,"76 km NW of Nuku‘alofa, Tonga",earthquake,9.6,1.9,0.075,53,reviewed,us,us
+2022-01-19T03:37:29.686Z,-20.4401,-175.3146,10,4.6,mb,,86,6.82,0.66,us,us7000gdf7,2022-01-20T22:35:34.040Z,"78 km N of Nuku‘alofa, Tonga",earthquake,13.2,1.9,0.077,58,reviewed,us,us
+2022-01-19T02:10:06.045Z,-20.8442,-175.3193,10,4.6,mb,,118,6.977,0.69,us,us7000gdza,2022-01-22T01:03:15.040Z,"34 km NNW of Nuku‘alofa, Tonga",earthquake,10.3,1.9,0.084,44,reviewed,us,us
+2022-01-19T01:16:39.983Z,-20.8291,-175.3305,10,4.8,mb,,146,6.961,0.79,us,us7000gd26,2022-01-19T15:27:27.040Z,"36 km NNW of Nuku‘alofa, Tonga",earthquake,11.6,1.9,0.058,97,reviewed,us,us
+2022-01-18T23:49:15.048Z,-20.6214,-175.3924,10,4.8,mb,,124,6.823,0.79,us,us7000ge5h,2022-01-22T05:06:34.040Z,"60 km NNW of Nuku‘alofa, Tonga",earthquake,14.5,1.9,0.072,60,reviewed,us,us
+2022-01-18T22:01:11.870Z,-20.9345,-175.3681,10,4.6,mb,,146,6.974,0.55,us,us7000gde9,2022-01-22T04:54:09.040Z,"28 km NW of Nuku‘alofa, Tonga",earthquake,12.3,1.9,0.137,16,reviewed,us,us
+2022-01-18T20:17:46.732Z,-20.4833,-175.3586,10,4.7,mb,,188,6.798,0.29,us,us7000ge57,2022-01-22T04:38:52.040Z,"74 km NNW of Nuku‘alofa, Tonga",earthquake,11.7,1.9,0.143,15,reviewed,us,us
+2022-01-18T17:59:54.607Z,-20.6508,-175.6063,10,4.9,mb,,124,6.652,0.71,us,us7000gcz2,2022-01-19T16:26:46.040Z,"68 km NW of Nuku‘alofa, Tonga",earthquake,9.1,1.7,0.059,94,reviewed,us,us
+2022-01-18T16:51:05.160Z,-20.7979,-175.4352,10,4.6,mb,,124,6.859,0.61,us,us7000ge50,2022-01-22T04:19:50.040Z,"44 km NNW of Nuku‘alofa, Tonga",earthquake,10.6,1.9,0.173,10,reviewed,us,us
+2022-01-18T14:31:50.827Z,-20.6843,-175.3304,10,4.6,mb,,157,6.901,0.85,us,us7000gdyh,2022-01-21T23:58:27.040Z,"Tonga",earthquake,10.9,1.9,0.085,45,reviewed,us,us
+2022-01-18T11:03:55.050Z,-20.6174,-175.6148,10,4.6,mb,,124,6.631,0.33,us,us7000gcuy,2022-01-19T15:27:11.040Z,"72 km NW of Nuku‘alofa, Tonga",earthquake,12.6,1.9,0.073,57,reviewed,us,us
+2022-01-18T07:59:09.493Z,-20.4401,-175.3281,10,4.6,mb,,188,6.808,0.61,us,us7000ge4x,2022-01-22T04:00:04.040Z,"78 km N of Nuku‘alofa, Tonga",earthquake,10.7,2,0.157,12,reviewed,us,us
+2022-01-18T06:52:35.057Z,-20.7433,-175.4879,10,4.7,mb,,124,6.791,0.69,us,us7000gcty,2022-01-22T03:29:13.040Z,"52 km NW of Nuku‘alofa, Tonga",earthquake,15.8,1.9,0.094,34,reviewed,us,us
+2022-01-18T05:18:59.647Z,-20.4725,-175.249,10,4.4,mb,,149,6.889,0.53,us,us7000ge4u,2022-01-22T03:39:28.040Z,"73 km N of Nuku‘alofa, Tonga",earthquake,15.9,1.8,0.269,4,reviewed,us,us
+2022-01-16T05:46:18.409Z,-20.62,-175.3892,10,4.7,mb,,149,6.825,0.41,us,us7000gds7,2022-01-21T06:38:05.040Z,"60 km NNW of Nuku‘alofa, Tonga",earthquake,9.7,1.9,0.166,11,reviewed,us,us
+2022-01-16T02:24:37.770Z,-20.8784,-175.4558,10,4.8,mb,,78,6.876,0.51,us,us7000gdef,2022-01-20T22:26:50.040Z,"39 km NW of Nuku‘alofa, Tonga",earthquake,15.2,1.9,0.095,37,reviewed,us,us
+2022-01-15T04:14:45.000Z,-20.546,-175.39,0,5.8,ms_20,,,,1.02,us,us7000gc8r,2022-01-24T15:23:38.665Z,"68 km NNW of Nuku‘alofa, Tonga",volcanic eruption,21.9,9.7,0.021,506,reviewed,us,us
+2022-01-14T01:08:39.043Z,-20.4601,-175.4932,10,4.7,mb,,127,6.673,0.94,us,us7000gdxk,2022-01-21T23:31:01.040Z,"81 km NNW of Nuku‘alofa, Tonga",earthquake,11.4,1.7,0.208,7,reviewed,us,us
